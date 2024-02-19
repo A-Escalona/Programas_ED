@@ -1,2 +1,6 @@
-# Programas_ED
-Programas del curso de Estructuras de datos
+PROGRMAS DEL CURSO DE ESTRUCTURAS DE DATOS
+
+Los programas están escritos en C, C++, C# o Java
+
+Los archivos *.txt contienen ejemplos para los programas (generalmente de Grafos)
+
